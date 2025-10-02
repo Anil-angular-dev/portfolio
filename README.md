@@ -31,8 +31,8 @@ I specialize in building scalable, responsive, and user-friendly applications us
 
 ## 📫 Connect With Me
 - 📧 Email: anilkumarkvp@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](#)  
-- 🌐 Portfolio Website: [https://yourusername.github.io/portfolio](#)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/anilkumar-j-641069b7/](#)  
+- 🌐 Portfolio Website: [https://github.com/Anil-angular-dev/portfolio](#)  
 
 ---
 ✨ *Always eager to learn, build, and collaborate on exciting projects!*
